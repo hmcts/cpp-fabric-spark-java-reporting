@@ -71,11 +71,10 @@ javap -classpath target/fabric-jvm-hello.jar uk.gov.hmcts.reporting.spike.Fabric
 
 ### Run 1 — HMCTS
 
-- Run ID: [INSERT]
-- Execution date/time UTC: [INSERT]
-- Status: [INSERT]
-- Duration: [INSERT]
-- Log file: `evidence/run-1-hmcts.txt`
+- Run ID: application_1795772089664_0001
+- Execution date/time UTC: 11/27/26 9:33:00 AM
+- Status: Success
+- Duration: 1 min 48 sec
 
 Expected output:
 
@@ -95,7 +94,6 @@ Change the command-line argument to `ReportingTeam`, save and execute again with
 - Execution date/time UTC: 11/23/26 2:00:55 PM
 - Status: Success
 - Duration: 3 min 33 sec
-- Log file: `evidence/run-2-reportingteam.txt`
 
 Expected greeting:
 
