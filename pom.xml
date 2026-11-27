@@ -20,10 +20,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Java target; requires a JDK supporting release 17 -->
-        <maven.compiler.release>17</maven.compiler.release>
+        <maven.compiler.release>21</maven.compiler.release>
 
         <!-- Verify these against the selected Fabric runtime -->
-        <spark.version>4.0.0</spark.version>
+        <spark.version>4.1.0</spark.version>
         <scala.binary.version>2.13</scala.binary.version>
     </properties>
 
